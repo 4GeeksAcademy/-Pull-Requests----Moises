@@ -13,16 +13,16 @@ basic_info:
     last_name: Esquivel
     
     # Define yourself in 4-5 words
-    motto: soy un tio muy genial 
+    motto: Me considero una persona trabajadora y paciente a la hora de realizar trabajos.
     
     # Focus
-    focus: i want a be famous programmer 
+    focus: Mi objetivo es mejorar como programador y mejorar mis tecnicas mientrar aporto a mi empresa.
     
     # You have 1 paragraph to make a great impression, summarize your career
-    summary: Me gradue en el grado desarrollo de aplicaciones web, hice mis practicas finales en una empresa nacional muy importante, me contrataron durante 2 años 
+    summary: Me gradue en el grado desarrollo de aplicaciones web, hice mis practicas finales en una empresa nacional muy importante, me contrataron durante 2 años hasta que decidi renunciar para buscar nuevos retos.
     # Your profile picture URL
     # If you don't have it as a URL you can place the picture inside /static/profile-images/ and the generated link will be http://sep.breatheco.de/static/profile-images/<your file name>
-    avatar: /site/resumes/static/profile-images/foto-carnet.png
+    avatar: 
 
     # Contact Information
     email: moisesesq@gmail.com #optional
@@ -33,9 +33,9 @@ basic_info:
     #
     # ******** IMPORTANT *******
     # This github username will be used to generate your public profile URL like this: http://sep.breatheco.de/sharu725
-    github: example
+    github: moisesEL
     
-    twitter: 'webjeda' #optional
+    twitter: 'moisesEL' #optional
     stack-overflow: # Number/Username, e.g. 123456/alandoe
 
     # Languages you speak, levels include: Native, Professional
@@ -53,22 +53,21 @@ basic_info:
     interests:
       - item: play videogames
 
-      - item: walking around my city with my little dog
+      - item: walking with my dog
 
-      - item: Cooking 
+      - item: I like to cook
 
 # Your previous education
 education:
     - degree: MSc in Computer Science
-      university: University King of carlos III
+      university: University Rey Juan Carlos III
       # optional
       university_logo: https://4geeks.co/wp-content/themes/4geeks/img/logos/4geeks-academy.svg
       time: 2020 - 2024
-      details: |
-        D
-
-          - Bullet point
-          - Bullet point
+      details: 
+            Durante la carrera me dediqué a mejorar mis conocimientos en programación y bases de datos, el trabajo en equipo y conseguir un enfoque mas colaborativo.
+          - Especialización en inteligencia artificial y ciencia de datos
+          - Base de datos
 
     - degree: BSc in Applied Mathematics
       university: Bristol University
@@ -87,54 +86,13 @@ education:
 
 # Your previous job experiences or volunteer
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: Technical Assistant
+      time: 2022 - 2023
+      company: Los informaticos, Madrid
       # optional
       company_logo: https://4geeks.co/wp-content/themes/4geeks/img/logos/4geeks-academy.svg
-      details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
+      details: Estuve de prácticas como asistente técnico de informática, ayudando a los trabajadores a resolver problemas técnicos. Tambien ayude en tareas de soporte y mantenimiento de equipos.
 
-          - Bullet point
-          - Bullet point
-
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
-      # optional
-      company_logo: https://4geeks.co/wp-content/themes/4geeks/img/logos/4geeks-academy.svg
-      details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-
-          - Bullet point
-          - Bullet point
-
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
-      # optional
-      company_logo: https://4geeks.co/wp-content/themes/4geeks/img/logos/4geeks-academy.svg
-      details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-
-          - Bullet point
-          - Bullet point
 
 # Your project portfolio
 projects:
@@ -177,19 +135,19 @@ projects:
 skills:
     toolset:
       - name: Python & Django
-        level: 98%
+        level: 60%
 
       - name: JavaScript & jQuery
-        level: 98%
+        level: 70%
 
       - name: Angular
-        level: 98%
+        level: 64%
 
       - name: HTML5 & CSS
         level: 95%
 
       - name: Ruby on Rails
-        level: 85%
+        level: 30%
 
       - name: Sketch & Photoshop
-        level: 60%
+        level: 56%
